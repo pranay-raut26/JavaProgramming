@@ -1,4 +1,4 @@
-package org.example.String;
+package org.example.Numbers;
 
 public class NumberPrograms {
 

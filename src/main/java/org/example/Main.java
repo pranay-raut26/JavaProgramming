@@ -1,6 +1,5 @@
 package org.example;
 
-import org.example.String.NumberPrograms;
 import org.example.String.StringPrograms;
 
 public class Main {
@@ -14,6 +13,14 @@ public class Main {
     /*//Swap numbers without using third variable
     NumberPrograms.swapNumber(2,3);*/
 
+    /*//String contains Vowels
+    StringPrograms.containsVowels("SDF");*/
+
+    /*//is word Palindrome
+    StringPrograms.checkIfPalindrome("Madam");*/
+
+    /*//Remove spaces from String
+    StringPrograms.removeSpacesFromString("My name is Pranay");*/
 
   }
 }
